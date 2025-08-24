@@ -1,0 +1,11 @@
+venv312/
+./.env
+./__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+instance/
+venv/
+.env
