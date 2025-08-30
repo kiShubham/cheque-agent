@@ -1,3 +1,4 @@
+!!! the integration of server and client is pending ;
 # Cheque Validation System
 
 ## Overview
